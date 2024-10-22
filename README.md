@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eswaramoorthy</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eswaramoorthys&label=Profile%20views&color=0e75b6&style=flat" alt="eswaramoorthys" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EswaramoorthyS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswaramoorthys&label=Profile%20views&color=0e75b6&style=flat" alt="eswaramoorthys" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswaramoorthys" alt="eswaramoorthys" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eswar_officil" target="blank"><img src="https://img.shields.io/twitter/follow/eswar_officil?logo=twitter&style=for-the-badge" alt="eswar_officil" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eswar_officil" target="blank"><img src="https://img.shields.io/twitter/follow/eswar_officil?logo=twitter&style=for-the-badge" alt="eswar_officil" /></a> </p> -->
 
 - 🔭 I’m currently working on **Financial Banking Mobile Application**
 
@@ -82,5 +86,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EswaramoorthyS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EswaramoorthyS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
