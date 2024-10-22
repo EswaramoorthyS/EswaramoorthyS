@@ -23,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stark0380) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Eswar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Eswar_officil) 
 <a href="https://twitter.com/eswar_officil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eswar_officil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eswaramoorthy-s-538944146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eswaramoorthy-s-538944146/" height="30" width="40" /></a>
 </p>
