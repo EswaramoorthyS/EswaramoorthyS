@@ -75,3 +75,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eswaramoorthys&" alt="eswaramoorthys" /></p>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EswaramoorthyS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EswaramoorthyS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EswaramoorthyS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EswaramoorthyS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
